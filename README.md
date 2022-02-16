@@ -13,6 +13,8 @@ I'm a passionate Data Scientist and AI developer, and currently a Computer Scien
 
 <p align="left">
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.java.com/es/download/ie_manual.jsp" target="_blank"> <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" widht="42" height="42"/> </a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/> </a> 
     <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-r-data-science-becris-lineal-color-becris.png" widht="42" height="42"/> </a>
     <a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/> </a>
