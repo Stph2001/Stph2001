@@ -15,12 +15,13 @@ I'm a passionate Data Scientist and AI developer, and currently a Computer Scien
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/> </a> 
     <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-r-data-science-becris-lineal-color-becris.png" widht="42" height="42"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
-    <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" widht="42" height="42"/> </a>
+    <a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+    <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
+    <a href="https://www.microsoft.com/es-es/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a>
     <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank"> <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/150px-.NET_Logo.svg.png" widht="42" height="42"/> </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img   src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" widht="42" height="42"/> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img   src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" widht="42" height="42"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
 
