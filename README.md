@@ -7,6 +7,21 @@
 </p>
 
 <br/>
+
+## Connect with me:
+
+<a href="https://www.linkedin.com/in/stephano-morales-1892701a0/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" widht="20" height="20"/></a> My linkedin
+
+<br/>
+
+## 😄 Views and Followers
+
+
+  <a href="https://github.com/Stph2001/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Stph2001">
+  </a>
+  <a href="https://github.com/Stph2001?tab=followers"><img src="https://img.shields.io/github/followers/Stph2001?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <!--
 **Stph2001/Stph2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
