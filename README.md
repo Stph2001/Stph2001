@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Full Stack Developer, and currently a Software Engineering Student. I am interested in developing new things which excite me a lot. I love exploring new technologies, and I like to stay on top of latest trends :)
+I'm a passionate Data Scientist and AI developer, and currently a Computer Science Student. I am interested in developing AI models or algorithms that make the best decisions for any people problem. I love to explore the new technological advances that appear in the world and I am always on top of new trends.
 
 - 📫 How to reach me **stephanoml@hotmail.com**
 <br/>
