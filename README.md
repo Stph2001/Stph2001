@@ -1,4 +1,30 @@
-### Hi there 👋
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Stephano Morales</h1>
+
+<h1 align="center"><a href="#"><img width="200" height="200" src="https://w7.pngwing.com/pngs/136/703/png-transparent-laptop-illustrator-personal-computer-%E3%81%84%E3%82%89%E3%81%99%E3%81%A8%E3%82%84-laptop-electronics-microphone-photography.png"/></a></h1>
+
+## 🙋‍♂️ About Me
+
+I'm a passionate Full Stack Developer, and currently a Software Engineering Student. I am interested in developing new things which excite me a lot. I love exploring new technologies, and I like to stay on top of latest trends :)
+
+- 📫 How to reach me **stephanoml@hotmail.com**
+<br/>
+
+## 🚀 Languages and Tools:
+
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
+    <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" widht="42" height="42"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
+    <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0" target="_blank"> <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/150px-.NET_Logo.svg.png" widht="42" height="42"/> </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img   src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" widht="42" height="42"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+</p>
+
+<br/>
 
 ## 📊 My Github Stats
 
