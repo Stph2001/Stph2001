@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Stephano Morales</h1>
 
-<h1 align="center"><a href="#"><img width="200" height="200" src="https://w7.pngwing.com/pngs/136/703/png-transparent-laptop-illustrator-personal-computer-%E3%81%84%E3%82%89%E3%81%99%E3%81%A8%E3%82%84-laptop-electronics-microphone-photography.png"/></a></h1>
+<h1 align="center"><a href="#"><img width="200" height="200" src="images/images-removebg-preview.png"/></a></h1>
 
 ## 🙋‍♂️ About Me
 
