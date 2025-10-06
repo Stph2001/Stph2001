@@ -4,7 +4,16 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Data Scientist and AI developer, and currently a Computer Science Student. I am interested in developing AI models or algorithms that make the best decisions for any people problem. I love to explore the new technological advances that appear in the world and I am always on top of new trends.
+Data Engineer with **2.5 years of experience** building enterprise-scale data infrastructure at **Belcorp**, one of LatAm's leading beauty & cosmetics companies. I specialize in designing robust ETL/ELT pipelines, optimizing cloud data warehouses, and leading technical teams.
+
+- 🔭 Currently working as **Data Engineer & Tech Lead** at Belcorp
+- 💼 Leading Tableau Cloud administration for **500+ users** and orchestrating data from **15+ sources**
+- 🎯 Tech Stack: **Snowflake** • **Python** • **SQL** • **AWS** • **React/Flask** • **Docker**
+- 🏆 Stanford-Certified: **Cloud Computing (100th %ile)** • **Spark (95th %ile)** • **Generative AI (98th %ile)**
+- 🌱 Currently exploring: **Apache Airflow**, **Advanced MLOps**, **Real-time Data Streaming**
+- 💡 Passionate about: **Data Engineering**, **Cloud Architecture**, **AI/LLM Development**, **Automation**
+- 📫 Reach me: **stephanoml@hotmail.com**
+- 🌎 Based in: **Lima, Peru** | Open to **Remote LatAm opportunities**
 
 - 📫 How to reach me **stephanoml@hotmail.com**
 <br/>
